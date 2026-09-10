@@ -1,3 +1,4 @@
+https://lwtccc.github.io/2026/09/10/Java%E7%9A%84%E5%B8%B8%E7%94%A8API/Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/
 https://lwtccc.github.io/2026/09/09/Java%E7%9A%84%E5%B8%B8%E7%94%A8API/swing%E7%BB%84%E4%BB%B6/JProgressBar%E7%B1%BB/
 https://lwtccc.github.io/2026/09/09/Java%E7%9A%84%E5%B8%B8%E7%94%A8API/swing%E7%BB%84%E4%BB%B6/JOptionPane%E7%B1%BB/
 https://lwtccc.github.io/2026/09/09/Java%E7%9A%84%E5%B8%B8%E7%94%A8API/swing%E7%BB%84%E4%BB%B6/JList%E7%B1%BB/
@@ -10,6 +11,8 @@ https://lwtccc.github.io/tags/index.html
 https://lwtccc.github.io/link/index.html
 https://lwtccc.github.io/categories/index.html
 https://lwtccc.github.io/
+https://lwtccc.github.io/tags/Linux%E5%9F%BA%E7%A1%80/
 https://lwtccc.github.io/tags/swing%E7%BB%84%E4%BB%B6/
 https://lwtccc.github.io/tags/Java/
+https://lwtccc.github.io/categories/Linux/
 https://lwtccc.github.io/categories/Java%E5%9F%BA%E7%A1%80api/
