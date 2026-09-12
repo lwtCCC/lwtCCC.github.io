@@ -11,8 +11,8 @@ https://lwtccc.github.io/tags/index.html
 https://lwtccc.github.io/link/index.html
 https://lwtccc.github.io/categories/index.html
 https://lwtccc.github.io/
-https://lwtccc.github.io/tags/Linux%E5%9F%BA%E7%A1%80/
 https://lwtccc.github.io/tags/swing%E7%BB%84%E4%BB%B6/
 https://lwtccc.github.io/tags/Java/
-https://lwtccc.github.io/categories/Linux/
+https://lwtccc.github.io/tags/Linux%E5%9F%BA%E7%A1%80/
 https://lwtccc.github.io/categories/Java%E5%9F%BA%E7%A1%80api/
+https://lwtccc.github.io/categories/Linux/
